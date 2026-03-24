@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there, I'm Abhishek! 👋<br>Passionate MCA Student | Versatile Tech Enthusiast<br>I’m currently working on Abstracts- A reasearchHub<br>I’m looking to collaborate on Data science and java development projects<br>
 
 
