@@ -1,19 +1,21 @@
 <svg width="850" height="120" viewBox="0 0 850 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#000046" />
-      <stop offset="12.5%" stop-color="#1CB5E0" />
-      <stop offset="25%" stop-color="#000046" />
-      <stop offset="37.5%" stop-color="#1CB5E0" />
-      <stop offset="50%" stop-color="#000046" />
-      <stop offset="62.5%" stop-color="#1CB5E0" />
-      <stop offset="75%" stop-color="#000046" />
-      <stop offset="87.5%" stop-color="#1CB5E0" />
-      <stop offset="100%" stop-color="#000046" />
+      <stop offset="0%" stop-color="#fbc2eb" />
+      <stop offset="10%" stop-color="#a18cd1" />
+      <stop offset="20%" stop-color="#96e6a1" />
+      <stop offset="30%" stop-color="#f6d365" />
+      <stop offset="40%" stop-color="#ff9472" />
+      <stop offset="50%" stop-color="#f2709c" />
+      <stop offset="60%" stop-color="#ff9472" />
+      <stop offset="70%" stop-color="#f6d365" />
+      <stop offset="80%" stop-color="#96e6a1" />
+      <stop offset="90%" stop-color="#a18cd1" />
+      <stop offset="100%" stop-color="#fbc2eb" />
     </linearGradient>
     <style>
-      .text-footer { font: bold 22px 'Segoe UI', Ubuntu, sans-serif; fill: white; text-anchor: middle; text-shadow: 1px 1px 4px rgba(0,0,0,0.6); }
-      .subtext-footer { font: 14px 'Segoe UI', Ubuntu, sans-serif; fill: #a2eafb; text-anchor: middle; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); }
+      .text-footer { font: bold 22px 'Segoe UI', Ubuntu, sans-serif; fill: #2d3748; text-anchor: middle; text-shadow: 1px 1px 2px rgba(255,255,255,0.8); }
+      .subtext-footer { font: 14px 'Segoe UI', Ubuntu, sans-serif; fill: #4a5568; text-anchor: middle; }
       @keyframes moveGradFooter {
         0% { transform: translateX(0%); }
         100% { transform: translateX(-50%); }
@@ -22,8 +24,8 @@
         animation: moveGradFooter 15s linear infinite reverse;
       }
       @keyframes pulse {
-        0%, 100% { opacity: 0.6; transform: scale(1); }
-        50% { opacity: 1; transform: scale(1.05); }
+        0%, 100% { opacity: 0.7; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.02); }
       }
       .pulsing {
         animation: pulse 3s infinite;
@@ -40,10 +42,10 @@
     <rect x="0" y="0" width="1700" height="120" fill="url(#bgGradFooter)" class="anim-rect-footer" />
     
     <!-- Tech waves effect -->
-    <path d="M 0,100 C 150,130 250,50 425,80 C 600,110 700,40 850,70 L 850,120 L 0,120 Z" fill="rgba(28, 181, 224, 0.2)" />
-    <path d="M 0,80 C 200,40 300,110 425,90 C 550,70 650,130 850,90 L 850,120 L 0,120 Z" fill="rgba(0, 0, 70, 0.3)" />
+    <path d="M 0,100 C 150,130 250,50 425,80 C 600,110 700,40 850,70 L 850,120 L 0,120 Z" fill="rgba(255, 255, 255, 0.4)" />
+    <path d="M 0,80 C 200,40 300,110 425,90 C 550,70 650,130 850,90 L 850,120 L 0,120 Z" fill="rgba(255, 255, 255, 0.2)" />
   </g>
 
   <text x="425" y="55" class="text-footer pulsing">Let's Connect &amp; Build Together!</text>
-  <text x="425" y="85" class="subtext-footer">Open for collaborations in Data Science, ML &amp; IoT Architecture</text>
+  <text x="425" y="85" class="subtext-footer">Open for collaborations in Data Science, IoT &amp; Java Development</text>
 </svg>

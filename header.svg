@@ -1,25 +1,26 @@
 <svg width="850" height="200" viewBox="0 0 850 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1CB5E0" />
-      <stop offset="12.5%" stop-color="#000046" />
-      <stop offset="25%" stop-color="#1CB5E0" />
-      <stop offset="37.5%" stop-color="#000046" />
-      <stop offset="50%" stop-color="#1CB5E0" />
-      <stop offset="62.5%" stop-color="#000046" />
-      <stop offset="75%" stop-color="#1CB5E0" />
-      <stop offset="87.5%" stop-color="#000046" />
-      <stop offset="100%" stop-color="#1CB5E0" />
+      <stop offset="0%" stop-color="#f2709c" />
+      <stop offset="10%" stop-color="#ff9472" />
+      <stop offset="20%" stop-color="#f6d365" />
+      <stop offset="30%" stop-color="#96e6a1" />
+      <stop offset="40%" stop-color="#a18cd1" />
+      <stop offset="50%" stop-color="#fbc2eb" />
+      <stop offset="60%" stop-color="#a18cd1" />
+      <stop offset="70%" stop-color="#96e6a1" />
+      <stop offset="80%" stop-color="#f6d365" />
+      <stop offset="90%" stop-color="#ff9472" />
+      <stop offset="100%" stop-color="#f2709c" />
     </linearGradient>
     <style>
-      .title { font: bold 42px 'Segoe UI', Ubuntu, sans-serif; fill: white; text-anchor: middle; text-shadow: 2px 2px 8px rgba(0,0,0,0.7); }
-      .subtitle { font: 20px 'Segoe UI', Ubuntu, sans-serif; fill: #a2eafb; text-anchor: middle; text-shadow: 1px 1px 4px rgba(0,0,0,0.5); letter-spacing: 1px; }
+      .title { font: bold 42px 'Segoe UI', Ubuntu, sans-serif; fill: #2d3748; text-anchor: middle; text-shadow: 1px 1px 2px rgba(255,255,255,0.8); }
       @keyframes moveGrad {
         0% { transform: translateX(0%); }
         100% { transform: translateX(-50%); }
       }
       .anim-rect {
-        animation: moveGrad 12s linear infinite;
+        animation: moveGrad 15s linear infinite;
       }
       @keyframes float {
         0%, 100% { transform: translateY(0); }
@@ -42,24 +43,23 @@
     <rect x="0" y="0" width="1700" height="200" fill="url(#bgGrad)" class="anim-rect" />
     
     <!-- Abstract Data & IoT Nodes background -->
-    <g stroke="rgba(255,255,255,0.15)" stroke-width="2" fill="none" class="floating">
+    <g stroke="rgba(0,0,0,0.15)" stroke-width="2" fill="none" class="floating">
        <path d="M -50,150 L 100,50 L 250,160 L 400,70 L 550,150 L 700,60 L 900,140" />
-       <circle cx="100" cy="50" r="6" fill="#1CB5E0"/>
-       <circle cx="250" cy="160" r="6" fill="#1CB5E0"/>
-       <circle cx="400" cy="70" r="6" fill="#1CB5E0"/>
-       <circle cx="550" cy="150" r="6" fill="#1CB5E0"/>
-       <circle cx="700" cy="60" r="6" fill="#1CB5E0"/>
+       <circle cx="100" cy="50" r="6" fill="#f2709c"/>
+       <circle cx="250" cy="160" r="6" fill="#fbc2eb"/>
+       <circle cx="400" cy="70" r="6" fill="#ff9472"/>
+       <circle cx="550" cy="150" r="6" fill="#a18cd1"/>
+       <circle cx="700" cy="60" r="6" fill="#96e6a1"/>
     </g>
     
-    <g stroke="rgba(255,255,255,0.1)" stroke-width="1.5" fill="none" class="floating-delay">
+    <g stroke="rgba(0,0,0,0.1)" stroke-width="1.5" fill="none" class="floating-delay">
        <path d="M 0,100 L 150,180 L 350,40 L 500,120 L 750,30 L 850,100" />
-       <circle cx="150" cy="180" r="4" fill="white"/>
-       <circle cx="350" cy="40" r="4" fill="white"/>
-       <circle cx="500" cy="120" r="4" fill="white"/>
-       <circle cx="750" cy="30" r="4" fill="white"/>
+       <circle cx="150" cy="180" r="4" fill="#ffffff"/>
+       <circle cx="350" cy="40" r="4" fill="#ffffff"/>
+       <circle cx="500" cy="120" r="4" fill="#ffffff"/>
+       <circle cx="750" cy="30" r="4" fill="#ffffff"/>
     </g>
   </g>
   
-  <text x="425" y="95" class="title">Data Science &amp; IoT Engineer</text>
-  <text x="425" y="140" class="subtitle">Transforming Data into Intelligence • Building Connected Systems</text>
+  <text x="425" y="115" class="title">Data Science, IoT &amp; Java Developer</text>
 </svg>
