@@ -1,0 +1,25 @@
+<svg width="400" height="140" viewBox="0 0 400 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9472" />
+      <stop offset="33%" stop-color="#f6d365" />
+      <stop offset="66%" stop-color="#96e6a1" />
+      <stop offset="100%" stop-color="#ff9472" />
+    </linearGradient>
+    <style>
+      .title { font: bold 20px 'Segoe UI', Ubuntu, sans-serif; fill: #c0caf5; }
+      .desc { font: 14px 'Segoe UI', Ubuntu, sans-serif; fill: #9aa5ce; }
+      .tag { font: bold 12px 'Segoe UI', Ubuntu, sans-serif; fill: #7dcfff; }
+    </style>
+  </defs>
+
+  <rect width="400" height="140" rx="10" fill="url(#borderGrad)" />
+  <rect x="2" y="2" width="396" height="136" rx="8" fill="#1a1b26" />
+
+  <text x="20" y="40" class="title">🤖 Natural Lang to SQL</text>
+  <text x="20" y="70" class="desc">AI-powered tool that converts plain</text>
+  <text x="20" y="90" class="desc">English queries into complex SQL.</text>
+
+  <circle cx="25" cy="115" r="5" fill="#ff9472" />
+  <text x="40" y="119" class="tag">Next.js • LLMs • MySQL • LangChain</text>
+</svg>

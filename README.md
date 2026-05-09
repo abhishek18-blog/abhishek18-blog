@@ -15,17 +15,17 @@ Hi there, I'm Abhishek! 👋<br>Passionate MCA Student | Versatile Tech Enthusia
 # 🚀 Top Projects:
 <p align="center">
   <a href="https://github.com/abhishek18-blog/fish-disease-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek18-blog&repo=fish-disease-detection&theme=tokyonight" alt="fish-disease-detection" />
+    <img src="fish-disease.svg" alt="fish-disease-detection" width="48%"/>
   </a>
   <a href="https://github.com/abhishek18-blog/Agritech-IOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek18-blog&repo=Agritech-IOT&theme=tokyonight" alt="Agritech-IOT" />
+    <img src="agritech.svg" alt="Agritech-IOT" width="48%"/>
   </a>
   <br/>
   <a href="https://github.com/abhishek18-blog/Abstracts-researchHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek18-blog&repo=Abstracts-researchHub&theme=tokyonight" alt="Abstracts-researchHub" />
+    <img src="abstracts.svg" alt="Abstracts-researchHub" width="48%"/>
   </a>
   <a href="https://github.com/abhishek18-blog/Natural-language-to-sql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek18-blog&repo=Natural-language-to-sql&theme=tokyonight" alt="Natural-language-to-sql" />
+    <img src="nlp-to-sql.svg" alt="Natural-language-to-sql" width="48%"/>
   </a>
 </p>
 
