@@ -21,8 +21,8 @@ Hi there, I'm Abhishek! 👋<br>Passionate MCA Student | Versatile Tech Enthusia
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek18-blog&repo=Agritech-IOT&theme=tokyonight" alt="Agritech-IOT" />
   </a>
   <br/>
-  <a href="https://github.com/abhishek18-blog/Abstracts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek18-blog&repo=Abstracts&theme=tokyonight" alt="Abstracts" />
+  <a href="https://github.com/abhishek18-blog/Abstracts-researchHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek18-blog&repo=Abstracts-researchHub&theme=tokyonight" alt="Abstracts-researchHub" />
   </a>
   <a href="https://github.com/abhishek18-blog/Natural-language-to-sql">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek18-blog&repo=Natural-language-to-sql&theme=tokyonight" alt="Natural-language-to-sql" />
