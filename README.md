@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <img src="header.svg" width="100%" alt="Data Analysis and IoT Header"/>
-</div>
+</div> -->
 <br>
 
 # About Me:
-Hi there, I'm Abhishek! An aspiring data scientist, IOT and Java Developer<br>Passionate MCA Student | Versatile Tech Enthusiast<br><br>I’m looking to collaborate on Data science and java development projects <br>
+Hi there, I'm Abhishek! An aspiring data scientist experienced in building IOT and AI/ML projects <br>Passionate MCA Student | Versatile Tech Enthusiast<br><br>I’m looking to collaborate on Data science and AI/ML development projects <br>
 
 
 ## 🌐 Socials:
