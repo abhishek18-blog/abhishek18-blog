@@ -24,7 +24,7 @@ Hi there, I'm Abhishek! An aspiring data scientist experienced in building IOT a
   <a href="https://github.com/abhishek18-blog/Abstracts-researchHub">
     <img src="abstracts.svg" alt="Abstracts-researchHub" width="48%"/>
   </a>
-  <a href="https://github.com/abhishek18-blog/Natural-language-to-sql">
+  <a href="https://github.com/abhishek18-blog/NLS2SQL-Using-Express-Server">
     <img src="nlp-to-sql.svg" alt="Natural-language-to-sql" width="48%"/>
   </a>
 </p>
